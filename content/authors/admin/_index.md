@@ -3,8 +3,7 @@ title: Harshil Sahai
 role: Ph.D. Candidate in Economics | University of Chicago
 bio: "I use experiments, big data, and discrete choice models to study public
   policy in developing countries. "
-interests:
-  - Development
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,9 +29,6 @@ email: harshil@uchicago.edu
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Harshil Sahai is an economist who studies public policy in developing countries. His current work focuses on estimating the demand for clean air in Delhi using discrete-choice experiments; studying the welfare effects of nationwide private school voucher policy in India; and understanding the role of social networks in urbanization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
