@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Chicago
-      year: 2022 (Expected)
+      year: ""
     - course: BA in Mathematics and Economics
       institution: Swarthmore College
       year: 2015
