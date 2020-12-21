@@ -1,6 +1,6 @@
 ---
-title: Harshil Sahai
 role: Ph.D. Candidate in Economics
+avatar_filename: avatar.jpg
 bio: "I use experiments, big data, and discrete choice models to study public
   policy in developing countries. "
 interests:
@@ -28,9 +28,10 @@ education:
     - course: BA in Mathematics and Economics
       institution: Swarthmore College
       year: 2015
-email: harshil@uchicago.edu
 superuser: true
 highlight_name: false
+title: Harshil Sahai
+email: harshil@uchicago.edu
 ---
 I use experiments, big data, and discrete choice models to study public policy in developing countries. My current work includes estimating the demand for clean air in Delhi using discrete-choice experiments; studying the welfare effects of nationwide private school voucher policy in India; and understanding the role of social networks in urbanization.
 
