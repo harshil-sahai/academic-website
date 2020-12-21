@@ -26,7 +26,7 @@ experience:
     company: Facebook | Core Data Science
     company_url: ''
     location: Menlo Park, California
-    date_start: '2020-03'
+    date_start: '2020-03-01'
     date_end: ''
     description:
         
@@ -34,7 +34,7 @@ experience:
     company: University of Chicago | Michael Greenstone
     company_url: ''
     location: Chicago, Illinois
-    date_start: '2015-09'
+    date_start: '2015-09-01'
     date_end: '2017-06'
     description:
 ---
