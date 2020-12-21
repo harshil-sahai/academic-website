@@ -1,9 +1,12 @@
 ---
 title: Harshil Sahai
-role: Ph.D. Candidate in Economics | University of Chicago
+role: Ph.D. Candidate in Economics
 bio: "I use experiments, big data, and discrete choice models to study public
   policy in developing countries. "
-interests: []
+interests:
+  - Development
+  - Education
+  - Energy and Environment
 social:
   - icon: envelope
     icon_pack: fas
