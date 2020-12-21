@@ -35,6 +35,6 @@ experience:
     company_url: ''
     location: Chicago, Illinois
     date_start: '2015-09-01'
-    date_end: '2017-06'
+    date_end: '2017-06-01'
     description:
 ---
