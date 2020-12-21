@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visiting Researcher 
-    company: Facebook | Core Data Science
+    company: Facebook, Core Data Science
     company_url: ''
     location: Menlo Park, California
     date_start: '2020-03-01'
@@ -31,7 +31,7 @@ experience:
     description:
         
   - title: Pre-Doctoral Fellow
-    company: University of Chicago | Michael Greenstone
+    company: University of Chicago, Michael Greenstone
     company_url: ''
     location: Chicago, Illinois
     date_start: '2015-09-01'
