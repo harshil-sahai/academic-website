@@ -25,7 +25,7 @@ experience:
   - title: Visiting Researcher 
     company: Facebook, Core Data Science
     company_url: ''
-    location: Menlo Park, California
+    location: Menlo Park, CA
     date_start: '2020-03-01'
     date_end: ''
     description:
@@ -33,8 +33,24 @@ experience:
   - title: Pre-Doctoral Fellow
     company: University of Chicago, Michael Greenstone
     company_url: ''
-    location: Chicago, Illinois
+    location: Chicago, IL
     date_start: '2015-09-01'
     date_end: '2017-06-01'
+    description:
+    
+  - title: Investment Banking Analyst
+    company: Credit Suisse Securities, Capital Markets
+    company_url: ''
+    location: New York, NY
+    date_start: '2014-06-01'
+    date_end: '2014-09-01'
+    description:
+    
+  - title: Research Assistant
+    company: Federal Reserve Bank of New York, Capital Markets
+    company_url: ''
+    location: New York, NY
+    date_start: '2013-06-01'
+    date_end: '2013-09-01'
     description:
 ---
