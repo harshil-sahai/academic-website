@@ -35,4 +35,4 @@ email: harshil@uchicago.edu
 ---
 I use experiments, big data, and discrete choice models to study public policy in developing countries. My current work includes estimating the demand for clean air in Delhi using field experiments; studying the welfare effects of nationwide private school voucher policy in India; and understanding the role of social networks in urbanization.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/content/authors/admin/Sahai_Harshil_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sahai_Harshil_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
