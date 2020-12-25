@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Candidate in Economics
-avatar_filename: avatar.jpg?nf_resize=fit&w=300&h=400
+avatar_filename: avatar.jpg?nf_resize=smartcrop&w=300&h=300
 bio: "I use experiments, big data, and discrete choice models to study public
   policy in developing countries. "
 interests:
