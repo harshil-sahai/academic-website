@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Candidate in Economics
-avatar_filename: avatar.jpg?nf_resize=smartcrop&w=300&h=300
+avatar_filename: avatar.jpg?nf_resize=smartcrop&w=30&h=30
 bio: "I use experiments, big data, and discrete choice models to study public
   policy in developing countries. "
 interests:
@@ -34,4 +34,4 @@ I use experiments, big data, and discrete choice models to study public policy i
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sahai_Harshil_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
-{{< icon name="envelope" pack="fas" >}} You can reach me harshil [at] uchicago.edu
+{{< icon name="envelope" pack="fas" >}} harshil [at] uchicago.edu
