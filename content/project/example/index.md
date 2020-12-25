@@ -1,7 +1,7 @@
 ---
-title: Job Loss and Behavioral Change: The Unprecedented Effects of the India Lockdown in Delhi
+title: "Job Loss and Behavioral Change: The Unprecedented Effects of the India Lockdown in Delhi"
 summary: "Early ecoconomics impacts of COVID-19 in low-income Delhi."
-tags:
+tags: 
 - other
 date: "2020-10-27T00:00:00Z"
 
