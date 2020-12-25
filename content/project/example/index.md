@@ -1,9 +1,9 @@
 ---
 title: Job Loss and Behavioral Change: The Unprecedented Effects of the India Lockdown in Delhi
-summary: An example of using the in-built project page.
+summary: Early ecoconomics impacts of COVID-19 in low-income Delhi.
 tags:
 - other
-date: "2016-04-27T00:00:00Z"
+date: "2020-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
