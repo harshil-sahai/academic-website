@@ -1,6 +1,6 @@
 ---
 title: "Job Loss and Behavioral Change: The Unprecedented Effects of the India Lockdown in Delhi"
-summary: ""
+summary: "October 2020"
 tags: 
 - other
 date: "2020-10-27T00:00:00Z"
