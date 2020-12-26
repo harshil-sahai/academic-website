@@ -1,10 +1,9 @@
 ---
 title: "Job Loss and Behavioral Change: The Unprecedented Effects of the India Lockdown in Delhi"
-summary: "with Kenneth Lee, Patrick Baylis, and Michael Greenstone"
+summary: ""
 tags: 
 - other
 date: "2020-10-27T00:00:00Z"
-doi: ""
 
 authors:
 - Kenneth Lee
