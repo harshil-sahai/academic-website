@@ -4,6 +4,13 @@ summary: "with Kenneth Lee, Patrick Baylis, and Michael Greenstone"
 tags: 
 - other
 date: "2020-10-27T00:00:00Z"
+doi: ""
+
+authors:
+- Kenneth Lee
+- admin
+- Patrick Baylis
+- Michael Greenstone
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
