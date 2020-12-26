@@ -27,12 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Education
-    tag: ed
-  - name: Energy and Environment
-    tag: ee
-  - name: Other
-    tag: other
+  - name: Publications
+    tag: pub
+  - name: Working Papers
+    tag: wp
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
