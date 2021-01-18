@@ -3,7 +3,7 @@ title: "Indoor Air Quality, Information, and Socio-Economic Status: Evidence fro
 summary: "May 2021"
 tags: 
 - pub
-date: "2021-05-27T00:00:00Z"
+date: "2020-05-27T00:00:00Z"
 doi: ""
 
 authors:
