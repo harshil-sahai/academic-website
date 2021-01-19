@@ -3,7 +3,7 @@ title: "Indoor Air Quality, Information, and Socio-Economic Status: Evidence fro
 summary: "May 2021"
 tags: 
 - pub
-date: "2021-05-27T00:00:00Z"
+date: "2020-05-27T00:00:00Z"
 doi: ""
 
 authors:
@@ -25,6 +25,10 @@ links:
 #  url: https://twitter.com/georgecushen
 - name: AEA Papers and Proceedings (Forthcoming)
   url: 
+- name: BFI Working Paper
+  url: https://bfi.uchicago.edu/working-paper/indoor-air-quality-information-and-socio-economic-status-evidence-from-delhi/
+- name: SSRN Working Paper
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767009
 url_code: ""
 url_pdf: ""
 url_slides: ""
