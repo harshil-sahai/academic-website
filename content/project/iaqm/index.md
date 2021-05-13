@@ -23,7 +23,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-- name: AEA Papers and Proceedings (Forthcoming)
+- name: AEA Papers and Proceedings
   url: https://www.aeaweb.org/articles?id=10.1257/pandp.20211006
 - name: BFI Working Paper
   url: https://bfi.uchicago.edu/working-paper/indoor-air-quality-information-and-socio-economic-status-evidence-from-delhi/
