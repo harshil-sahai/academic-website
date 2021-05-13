@@ -1,7 +1,7 @@
 ---
 role: Ph.D. Candidate in Economics
 avatar_filename: avatar.jpg?nf_resize=smartcrop&w=30&h=30
-bio: "I use experiments, big data, and discrete choice models to study public
+bio: "I use experiments, big data, and economic models to study public
   policy in developing countries. "
 interests:
   - Development
@@ -30,7 +30,7 @@ highlight_name: true
 title: Harshil Sahai
 email: 
 ---
-I use experiments, big data, and discrete choice models to study public policy in developing countries. My current work includes estimating the demand for clean air in Delhi using field experiments; studying the welfare effects of nationwide private school voucher policy in India; and understanding the role of social networks in urbanization.
+I use experiments, big data, and economic models to study public policy in developing countries. My current work includes estimating the demand for clean air in Delhi using field experiments; studying the welfare effects of nationwide private school voucher policy in India; and understanding the role of social networks in urbanization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sahai_Harshil_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
