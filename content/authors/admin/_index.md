@@ -29,7 +29,7 @@ highlight_name: true
 title: Harshil Sahai
 email: 
 ---
-I use experiments, big data, and economic models to study public policy in developing countries. My current work includes studying the welfare effects of nationwide private school voucher policy in India; estimating the demand for clean air in Delhi using field experiments; and understanding the role of social networks in economic mobility.
+I use experiments, data, and economic models to study policy questions in developing countries. I'm particularly interested in revealed preference approaches to valuing non-market goods, such as education, air pollution, and social networks. My current work includes evaluating the welfare impacts of private school voucher policy in India; estimating the demand for clean air in Delhi using field experiments; and quantifying the role of social networks in explaining spatial mobility in India.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sahai_Harshil_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
