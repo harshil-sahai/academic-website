@@ -2,7 +2,7 @@
 title: "Job Loss and Behavioral Change: The Unprecedented Effects of the India Lockdown in Delhi"
 summary: "October 2020"
 tags: 
-- wp
+- pub
 date: "2020-10-27T00:00:00Z"
 doi: ""
 
@@ -24,12 +24,12 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-- name: CEPR Working Paper
+- name: CEPR COVID Economics
   url: https://cepr.org/file/9755/download?token=1pXzWfQd
-- name: BFI Working Paper
-  url: https://bfi.uchicago.edu/working-paper/job-loss-and-behavioral-change-the-unprecedented-effects-of-the-india-lockdown-in-delhi/
-- name: SSRN Working Paper
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601979
+#- name: BFI Working Paper
+#  url: https://bfi.uchicago.edu/working-paper/job-loss-and-behavioral-change-the-unprecedented-effects-of-the-india-lockdown-in-delhi/
+#- name: SSRN Working Paper
+#  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601979
   color: "rgb(255, 255, 255)"
 url_code: ""
 url_pdf: ""
