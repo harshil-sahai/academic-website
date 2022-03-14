@@ -5,6 +5,7 @@ tags:
 - pub
 date: "2020-05-27T00:00:00Z"
 doi: ""
+weight: 2
 
 authors:
 - Michael Greenstone
