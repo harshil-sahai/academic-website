@@ -31,8 +31,8 @@ content:
     tag: pub
   - name: Working Papers
     tag: wp
-  - name: In Progress
-    tag: ip
+  - name: In The Field
+    tag: if
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

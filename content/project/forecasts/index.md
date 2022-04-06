@@ -1,8 +1,8 @@
 ---
 title: "The Value of Forecasts: Experimental Evidence from Developing Country Agriculture"
-summary: "In Progress"
+summary: "In The Field"
 tags: 
-- ip
+- if
 date: "2022-03-10T00:00:00Z"
 doi: ""
 weight: 1.5
@@ -26,7 +26,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-- name: Journal of Development Economics (Accepted, Pre-Results)
+- name: Journal of Development Economics (Accepted, Pre-Results Review)
 - name: Pre-Analysis Plan
   url: https://static1.squarespace.com/static/558eff8ce4b023b6b855320a/t/6206e3f2ab210a0d49ddb4a5/1644618739511/BJKLS_Forecasts_PAP_202202.pdf
 url_code: ""
