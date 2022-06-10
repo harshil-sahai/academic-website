@@ -28,7 +28,7 @@ highlight_name: true
 title: Harshil Sahai
 email: 
 ---
-I use experiments, data, and economic models to study policy questions in developing countries. I'm particularly interested in revealed preference approaches to valuing non-market goods, such as education, air pollution, and social networks. My current work includes evaluating the welfare impacts of private school voucher policy in India; estimating the demand for clean air in Delhi using field experiments; and quantifying the role of social networks in explaining spatial mobility across India.
+I am currently a PhD student in the [Department of Economics at The University of Chicago](https://economics.uchicago.edu), where I am a [2022 National Academy of Education / Spencer Dissertation Fellow](https://naeducation.org/2022-naed-spencer-dissertation-fellows/) and a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org). I use experiments, data, and economic models to study policy questions in developing countries. My current work includes evaluating the welfare impacts of private school voucher policy in India; estimating the demand for clean air in Delhi using field experiments; and quantifying the role of social networks in explaining spatial mobility across India.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sahai_Harshil_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
