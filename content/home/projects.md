@@ -33,6 +33,8 @@ content:
     tag: wp
   - name: In The Field
     tag: if
+  - name: Policy Reports
+    tag: policy
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
