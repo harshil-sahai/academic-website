@@ -3,8 +3,9 @@ role: Ph.D. Candidate in Economics
 avatar_filename: avatar.jpg?nf_resize=smartcrop&w=30&h=30
 bio: "I use experiments, data, and economic models to study policy questions in developing countries."
 interests:
-  - Economics of Education
   - Development Economics
+  - Economics of Education
+  - Environmental Economics
 social:
   - icon: twitter
     icon_pack: fab
