@@ -23,7 +23,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-- name: ArXiv Working Paper
+- name: Working Paper
   url: https://harshil.com/media/Sahai_india_migration.pdf
 url_code: ""
 url_pdf: ""
