@@ -1,6 +1,6 @@
 ---
-title: "Social Networks and Spatial Mobility: Evidence from Facebook in India"
-summary: "March 2022"
+title: "Social Networks and Internal Migration: Evidence from Facebook in India"
+summary: "July 2022"
 tags: 
 - wp
 date: "2022-03-10T00:00:00Z"
@@ -9,7 +9,7 @@ weight: 1
 
 authors:
 - admin
-- Mike Bailey
+- Michael Bailey
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,7 +24,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: ArXiv Working Paper
-  url: https://arxiv.org/abs/2203.05595
+  url: https://harshil.com/media/Sahai_india_migration.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,4 +39,4 @@ url_video: ""
 
 ---
 
-This paper studies the role of social networks in spatial mobility across India. Using aggregated and de-identified data from the world's largest online social network, we (i) document new descriptive findings on the structure of social networks and spatial mobility in India; (ii) quantify the effects of social networks on annual migration choice; and (iii) embed these estimates in a spatial equilibrium model to study the wage implications of increasing social connectedness. Across millions of individuals, we find that multiple measures of social capital are concentrated among the rich and educated and among migrants. Across destinations, both mobility patterns and social networks are concentrated toward richer areas. A model of migration suggests individuals are indifferent between a 10% increase in destination wages and a 12-16% increase in destination social networks. Accounting for networks reduces the migration-distance relationship by 19%. In equilibrium, equalizing social networks across locations improves average wages by 3% (24% for the bottom wage-quartile), a larger impact than removing the marginal cost of distance. We find evidence of an economic support mechanism, with destination economic improvements reducing the migration-network elasticity. We also find suggestive evidence for an emotional support mechanism from qualitative surveys among Facebook users. Difference-in-difference estimates suggest college attendance delivers a 20% increase in network size and diversity. Taken together, our data suggest that - by reducing effective moving costs - increasing social connectedness across space may have considerable economic gains.
+Despite potentially large economic returns, rates of internal migration re- main low in many developing countries. This paper uses new, de-identified data from Facebook to quantify the role of social networks in explaining this development puzzle. We study this question in India, a country that exhibits substantial wage dispersion across regions but remains relatively under-urbanized. Detailed records of nearly 20 million individuals on the evolution of social connections and residential choice reveal that networks and migration are strongly linked. Across several identification strategies, a model of migration suggests that social networks account for roughly 20% of relationship between migration and distance. We develop a simple, static model of spatial equilibrium, which suggests that equalizing social connections across locations increases average wages by 3% (24% for the bottom wage-quartile) through increased migration. This impact is larger than fully removing the marginal effect of distance in migration decisions, akin to building rapid transport infrastructure. Taken together, our data suggest that – by reducing migration frictions – increasing social connections across space may have considerable economic gains. We provide suggestive evidence for economic and emotional support mechanisms underlying network effects and show that college attendance can boost the size and diversity of social networks by 20%.
