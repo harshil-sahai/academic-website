@@ -26,7 +26,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: CEPR COVID Economics
-  url: https://cepr.org/file/9755/download?token=1pXzWfQd
+  url: https://cepr.org/publications/covid-economics-issue-51#392514_392927_390641
 #- name: BFI Working Paper
 #  url: https://bfi.uchicago.edu/working-paper/job-loss-and-behavioral-change-the-unprecedented-effects-of-the-india-lockdown-in-delhi/
 #- name: SSRN Working Paper
